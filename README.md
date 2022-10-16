@@ -1,0 +1,2 @@
+# CodingNinjas-MYSQL
+MYSQL QUERIES
